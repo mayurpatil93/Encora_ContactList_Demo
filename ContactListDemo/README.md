@@ -44,22 +44,22 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ### Landing page
 
-![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/ContactListDemo/src/assets/images/Landing.png)
+![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/blob/Localdev/ContactListDemo/src/assets/images/Landing.png)
 
 
 ### Add Contact Validation
 
-![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/ContactListDemo/src/assets/images/Validations.png)
+![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/blob/Localdev/ContactListDemo/src/assets/images/Validations.png)
 
 
 ### Add Contact 
 
-![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/ContactListDemo/src/assets/images/Add.png)
+![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/blob/Localdev/ContactListDemo/src/assets/images/Add.png)
 
 
 ### Edit Contact 
 
-![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/ContactListDemo/src/assets/images/Edit.png)
+![image Landing](https://github.com/mayurpatil93/Encora_ContactList_Demo/blob/Localdev/ContactListDemo/src/assets/images/Edit.png)
 
 
 
